@@ -1,0 +1,22 @@
+# queries = ["Auto and Vehicles", "Books and Reference", "Comics", "Communications", "Finance", "Health and Fitness", "House and Home", "Libraries and Demo", "Lifestyle", "Maps and Navigation",
+    #     "Medical", "Music and Audio", "News and Magazines", "Personalization", "Travel and Local", "Video Players and Editors", "Weather", "productivity tools", "education technology", 
+    #     "virtual reality", "augmented reality", "simulation", "puzzle", "strategy", 
+    #     "arcade", "role playing", "casual", "board games", "card games", "music games", "sports games", "casino", "word games",
+    #     "idle games", "finance management", "insurance", "real estate", "social impact", "green living", "smart home", "AI assistant", "developer tools", "wearables", "automotive", 
+    #     "government", "public services", "transportation", "utilities", "cloud storage", "backup", "file management", "remote desktop", "device cleaner", "battery saver", "emulator", "terminal", "scanner", "barcode", "translation",
+    #     "voice assistant", "virtual pet", "kids education", "language learning", "STEM learning", "career", "finance education", 
+    #     "productivity planner", "habit tracking", "goal setting", "time management", "finance tracker", 
+    #     "budget planner", "crypto wallet", "NFT", "metaverse", "smartwatch", "IoT control", "fitness tracker", "sleep tracker", "mental health", "meditation guide", "volunteering", "eco apps", "quiz", "trivia", "VR experiences", 
+    #     "AI photo editor", "AI art generator", "voice changer", "podcast", "live streaming", "radio", "document scanner", "PDF tools", "note taking", "to-do list", "password manager", "finance calculator", "flight booking", "hotel booking",
+    #     "translation tools", "virtual tours", "offline maps", "camping", "navigation aid", "transport tracking"]
+
+
+# queries = ["social", "games", "fitness", "entertainment", "messaging", "shopping", "music", "watch+tv", "tools",
+    #             "food", "business", "photos", "videos", "communication", "productivity", "news", "travel", "maps",
+    #             "budgeting", "audio", "banking", "home", "nutrition", "meditation", "sleep", "learning", "languages",
+    #             "sports", "deals", "ride", "rental", "public+transit", "calendar", "organizer", "tracker", "camera",
+    #             "editing", "animation", "art", "talk", "journal", "retail", "stocks", "education", "ecommerce", "beauty",
+    #             "dating", "love", "community", "security", "healthcare", "therapy", "self-help", "outdoors", "bills",
+    #             "streaming", "reading", "crypto", "workout", "events", "health", "charity", "parenting", "freelance",
+    #             "fashion", "baking", "hobbies", "wellness", "adventure", "gift", "web", "gardening", "notes", "DIY",
+    #             "photography", "cooking", "pets", "recipes", "mobile", "jobs", "projects", "gaming","Food and Drink"]
